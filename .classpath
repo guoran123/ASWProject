@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/aws_lib_AWSProject"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/aws_jdbc_AWSProject"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/aws_jre_AWSProject"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

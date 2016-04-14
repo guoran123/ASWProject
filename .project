@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>AWSProject</name>
+	<comment/>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.actionsoft.awsdevelop.AWSProjectNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+<aws path="D:\Actionsoft\AWS-Enterprise5.2"/><awsjdk path="D:\Actionsoft\AWS-Enterprise5.2\jdk1.6"/></projectDescription>
